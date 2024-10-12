@@ -1,7 +1,12 @@
 
-hangman/bin/Debug/hangman.exe
-hangman/hangman.cbp
-hangman/hangman.depend
-hangman/hangman.layout
-hangman/obj/Debug/Desktop/pbinfo/hangman/main.o
-hangman/obj/Debug/main.o
+cuvinte_de_verificat.txt/bin/Debug/hangman.exe
+cuvinte_de_verificat.txt/hangman.cbp
+cuvinte_de_verificat.txt/hangman.depend
+cuvinte_de_verificat.txt/hangman.layout
+cuvinte_de_verificat.txt/obj/Debug/Desktop/pbinfo/hangman/main.o
+cuvinte_de_verificat.txt/obj/Debug/main.o
+.idea/vcs.xml
+.idea/proiect1.iml
+.idea/modules.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
